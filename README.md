@@ -1,5 +1,4 @@
 # Project : Samsung Galaxy S24 Ultra 5G Review Analysis
-![image.png](attachment:image.png)
 
 ## Product: 
     Samsung Galaxy S24 Ultra 5G (Titanium Violet, 256 GB) with 12 GB RAM
